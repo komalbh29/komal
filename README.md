@@ -1,3 +1,4 @@
 # Komal
-This is my first Git repository
+This is my first Git Repository.
+<br>
 Author - Komal Handibag
